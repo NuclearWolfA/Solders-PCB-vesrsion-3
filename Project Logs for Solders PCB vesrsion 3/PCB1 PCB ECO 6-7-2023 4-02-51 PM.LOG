@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Net10Uf_1 Pin=D?-1
+Removed Pin From Net: NetName=Net10Uf_1 Pin=D?-1
+Removed Pin From Net: NetName=Net10Uf_1 Pin=K?-A1
+Removed Pin From Net: NetName=Net10Uf_1 Pin=K?-A1
+Added Pin To Net: NetName=Net10Uf_1 Pin=D?-1
+Added Pin To Net: NetName=Net10Uf_1 Pin=D?-1
+Added Pin To Net: NetName=Net10Uf_1 Pin=K?-A1
+Added Pin To Net: NetName=Net10Uf_1 Pin=K?-A1
+Add Net: Net with name "NetD?_2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10Uf ECA1HM100
+Added Member To Class: ClassName=Sheet1 Member=Component D? 1N4007-E3/54
+Added Member To Class: ClassName=Sheet1 Member=Component K? SRD-05VDC-SL-C
+Added Member To Class: ClassName=Sheet1 Member=Component Q? BC547CG

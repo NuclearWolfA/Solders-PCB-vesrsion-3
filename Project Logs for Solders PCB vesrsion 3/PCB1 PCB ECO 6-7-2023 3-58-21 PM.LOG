@@ -1,0 +1,19 @@
+Added Component: Designator=K?(RELAY_SRD-05VDC-SL-C)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SRD-05VDC-SL-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Songle Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SRD-05VDC-SL-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "NON STANDARD-5 Songle Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SRD-05VDC-SL-C/Songle+Relay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "SRD-05VDC-SL-C.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10Uf ECA1HM100
+Added Member To Class: ClassName=Sheet1 Member=Component K? SRD-05VDC-SL-C
+Added Member To Class: ClassName=Sheet1 Member=Component Q? BC547CG

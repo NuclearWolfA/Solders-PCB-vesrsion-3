@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=Net10Uf_1 Pin=  -1
+Removed Pin From Net: NetName=Net10Uf_1 Pin=Diode 1-1
+Removed Pin From Net: NetName=Net10Uf_1 Pin=K1-A1
+Removed Pin From Net: NetName=Net10Uf_1 Pin=K2-A1
+Change Component Designator: OldDesignator=   NewDesignator=D2
+Change Component Designator: OldDesignator=10k NewDesignator=R1
+Change Component Designator: OldDesignator=10K NewDesignator=R2
+Change Component Designator: OldDesignator=10K NewDesignator=R3
+Change Component Designator: OldDesignator=10K NewDesignator=R4
+Change Component Designator: OldDesignator=10Uf NewDesignator=10Uf c1
+Change Component Designator: OldDesignator=10Uf NewDesignator=10Uf c2
+Change Component Designator: OldDesignator=22Uf NewDesignator=22Uf c1
+Change Component Designator: OldDesignator=47Uf NewDesignator=47Uf c1
+Added Pin To Net: NetName=Net10Uf_1 Pin=D2-1
+Added Pin To Net: NetName=Net10Uf_1 Pin=Diode 1-1
+Added Pin To Net: NetName=Net10Uf_1 Pin=K1-A1
+Added Pin To Net: NetName=Net10Uf_1 Pin=K2-A1
+Change Net Name : Old Net Name=Net10K_1 New Net Name=Net22Uf c1_1
+Change Net Name : Old Net Name=Net10k_1 New Net Name=NetESP8266_1
+Change Net Name : Old Net Name=Net10K_1 New Net Name=NetESP8266_3
+Change Net Name : Old Net Name=Net10K_2 New Net Name=NetESP8266_10
+Change Net Name : Old Net Name=Net10Uf_1 New Net Name=Net10Uf c1_1
+Change Net Name : Old Net Name=Net10Uf_1 New Net Name=Net10Uf c2_1
+Added Member To Class: ClassName=Sheet1 Member=Component 10Uf c2 ECA1HM100
+Added Member To Class: ClassName=Sheet1 Member=Component Diode 1 1N4007-E3/54
+Added Member To Class: ClassName=Sheet1 Member=Component Q? BC547CG
+Added Member To Class: ClassName=Sheet1 Member=Component R1 MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 MFR-25FBF52-10K

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=C? NewDesignator=22Uf
+Added Pin To Net: NetName=Net22Uf_1 Pin=22Uf-1
+Added Pin To Net: NetName=Net22Uf_1 Pin=U?-2
+Added Net: Name=Net22Uf_1
+Added Member To Class: ClassName=Sheet1 Member=Component 22Uf ECA1HM220
+Added Member To Class: ClassName=Sheet1 Member=Component C? ECA1HM100
+Added Member To Class: ClassName=Sheet1 Member=Component U? L7805CV

@@ -1,0 +1,27 @@
+Added Component: Designator=P?(TECO-5-146130-2_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "5-146130-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F146130%7FM%7Fpdf%7FEnglish%7FENG_CD_146130_M.pdf%7F5-146130-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Oct-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 2 x 3 Position, Height 8.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5-146130-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net22Uf c1_1 Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=NetESP8266_6 Pin=ESP8266-6
+Added Pin To Net: NetName=NetESP8266_6 Pin=P?-4
+Added Net: Name=NetESP8266_6
+Added Pin To Net: NetName=NetESP8266_7 Pin=ESP8266-7
+Added Pin To Net: NetName=NetESP8266_7 Pin=P?-3
+Added Net: Name=NetESP8266_7
+Added Member To Class: ClassName=Sheet1 Member=Component P? 5-146130-2

@@ -1,0 +1,11 @@
+Added Component: Designator=MD?(FP-ESP-12S-MFG)
+Add component (AddParameter): Name = "Data Rate"; Value = "54Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2.484GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensitivity"; Value = "-90dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net22Uf_1 Pin=MD?-8
+Added Pin To Net: NetName=GND Pin=MD?-9
+Added Member To Class: ClassName=Sheet1 Member=Component C? ECA1HM100
+Added Member To Class: ClassName=Sheet1 Member=Component LM317 LM317EMP
+Added Member To Class: ClassName=Sheet1 Member=Component MD? ESP-12S

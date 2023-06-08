@@ -1,0 +1,11 @@
+Remove Pin from Net: Failed to remove Pin
+Change Component Designator: OldDesignator=? NewDesignator=10K
+Change Component Designator: OldDesignator=? NewDesignator=10K
+Change Net Name : Old Net Name=Net10k_2 New Net Name=Net10K_1
+Change Net Name : Old Net Name=Net?_2 New Net Name=Net10K_2
+Added Pin To Net: NetName=VCC Pin=S1vbA60-2
+Added Pin To Net: NetName=VCC Pin=S1vbA60-3
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10Uf ECA1HM100

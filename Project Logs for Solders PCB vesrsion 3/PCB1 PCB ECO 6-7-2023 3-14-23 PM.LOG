@@ -1,0 +1,15 @@
+Remove Pin from Net: Failed to remove Pin
+Add Component: Footprint Not Found RELAY_SRD-05VDC-SL-C
+Add Component: Footprint Not Found RELAY_SRD-05VDC-SL-C
+Add Pin To Net: Unknown Pin: Pin K?-A1
+Add Pin To Net: Unknown Pin: Pin K?-A1
+Added Pin To Net: NetName=NetK?_A2 Pin=Q?-1
+Added Net: Name=NetK?_A2
+Add Net: Net with name "NetK?_A2" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10K MFR-25FBF52-10K
+Added Member To Class: ClassName=Sheet1 Member=Component 10Uf ECA1HM100
+Add Class Member: Failed to add class member : Component K? SRD-05VDC-SL-C
+Add Class Member: Failed to add class member : Component K? SRD-05VDC-SL-C
+Added Member To Class: ClassName=Sheet1 Member=Component Q? BC547CG

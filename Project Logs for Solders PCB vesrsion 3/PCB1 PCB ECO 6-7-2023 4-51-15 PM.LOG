@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=Net22Uf c1_1 Pin=P?-1
+Added Pin To Net: NetName=Net22Uf c1_1 Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=NetESP8266_6 Pin=ESP8266-6
+Added Pin To Net: NetName=NetESP8266_6 Pin=P?-3
+Added Net: Name=NetESP8266_6
+Added Pin To Net: NetName=NetESP8266_7 Pin=ESP8266-7
+Added Pin To Net: NetName=NetESP8266_7 Pin=P?-4
+Added Net: Name=NetESP8266_7
+Added Member To Class: ClassName=Sheet1 Member=Component P? 5-146130-2
